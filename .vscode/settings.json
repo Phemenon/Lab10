@@ -3,6 +3,7 @@
     "code-runner.runInTerminal": true,
     "C_Cpp.errorSquiggles": "disabled",
     "files.associations": {
-        "iostream": "cpp"
+        "iostream": "cpp",
+        "fstream": "cpp"
     }
 }
